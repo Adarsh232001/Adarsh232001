@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsh232001&label=Profile%20views&color=0e75b6&style=flat" alt="Adarsh232001" /> </p>
 
-- 🔭 I’m currently working on **quiz mobile application**
+- 🔭 I’m currently working on **mahine learning project**
 
 - 🌱 I’m currently learning **advanced python, machine learning, artificial intelligence**
 
