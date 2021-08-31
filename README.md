@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adarsh232001" alt="adarsh232001" /></a> </p>
 
-- 🔭 I’m currently working on **mahine learning project**
+- 🔭 I’m currently working on **Loan approval mahine learning project**
 
 - 🌱 I’m currently learning **advanced python, machine learning, artificial intelligence**
 
