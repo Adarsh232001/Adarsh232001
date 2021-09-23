@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/adarsh-kumar-41aab0141/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adarsh-kumar-41aab0141/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/15543120/adarsh-n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15543120/adarsh-n" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/adarshkumar73821" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/adarshkumar73821" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/adarshkumar73821" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/adarshkumar73821" height="30" width="40" /></a>
 <a href="https://discord.gg/ADARSH N#0091" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ADARSH N#0091" height="30" width="40" /></a>
 </p>
 
