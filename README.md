@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adarsh N</h1>
-<h3 align="center">A passionate Software developer from India, Ex- Sri chaitanya,Ex-GECR</h3>
+<h3 align="center">A passionate Data Engineer from India, Agilisian Ex- Sri chaitanya,Ex-GECR</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsh232001&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh232001" /> </p>
 
@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **private repository.**
 
-- 🌱 I’m currently learning **Django.**
+- 🌱 I’m currently learning **Airflow.**
 
-- 👯 I’m looking to collaborate on **Python and Machine learning projects.**
+- 👯 I’m looking to collaborate on **Python, Machine learning and AI projects.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Adarsh232001](https://github.com/Adarsh232001)
 
-- 💬 Ask me about **Python, MySQL, Machine Learning, Cloud Computing(Microsoft Azure) and Quantum Computing**
+- 💬 Ask me about **Python, MySQL, Spark, Databricks, Airflow, Machine Learning, Cloud Computing(AWS,Microsoft Azure) and Quantum Computing**
 
 - 📫 How to reach me **adarshkumar738291@gmail.com**
 
